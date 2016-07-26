@@ -4,5 +4,4 @@ I am new
 anoher new line
 git tracks changes
 i am here
-create a new branch
-you are wrong
+create a new branch is quick and simple
