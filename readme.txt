@@ -5,3 +5,4 @@ anoher new line
 git tracks changes
 i am here
 create a new branch is quick and simple
+new commit
